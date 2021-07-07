@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-🔭 I'm interested in all the technologies that benefit society.  
+🔭 I'm interested in all the technologies that enrich society.  
 🌱 I'm currently learning web development and blockchain!  
 🚀 My dream is to change the world with my technology.  
 
