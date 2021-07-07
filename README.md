@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-🔭 I'm interested in all the technologies that enrich society.  
-🌱 I'm currently learning web development and blockchain!  
-🚀 My dream is to change the world with my technology.  
+🔭 Interested in all the technologies that enrich society.  
+🌱 Currently learning web development and blockchain!  
+🚀 My dream is to change the world with my technology!  
 
 [![Hyemmie's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyemmie&count_private=true&theme=vue&show_icons=true)](https://github.com/hyemmie/github-readme-stats)
 
