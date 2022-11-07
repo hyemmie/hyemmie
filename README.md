@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 🔭 Interested in all the technologies that enrich society.  
-🌱 Currently learning web development and blockchain!  
+🌱 Currently learning web development and cryptography (focusing on zero-knowledge proof) 
 🚀 My dream is to change the world with my technology!  
 
 [![Hyemmie's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyemmie&count_private=true&theme=vue&show_icons=true)](https://github.com/hyemmie/github-readme-stats)
