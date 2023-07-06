@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 🚀 My dream is to change the world with my technology!  
 📑 Medium posts: https://medium.com/@Hyem_mie
 
-[![Hyemmie's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyemmie&count_private=true&theme=vue&show_icons=true)](https://github.com/hyemmie/github-readme-stats)
+<!--  [![Hyemmie's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyemmie&count_private=true&theme=vue&show_icons=true)](https://github.com/hyemmie/github-readme-stats) -->
