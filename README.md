@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 🔭 Interested in all the technologies that enrich society.  
-🌱 Currently learning web development and cryptography (focusing on zero-knowledge proof)   
+🌱 Currently learning software engineering, distributed system and cryptography (focusing on zero-knowledge proof)   
 🚀 My dream is to change the world with my technology!  
 📑 Medium posts: https://medium.com/@Hyem_mie
 
